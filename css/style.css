@@ -26,6 +26,7 @@ section {
   float: right;
   width: 70%;
   font-size: 18px;
+  font-weight: normal;
   text-align: center;
   text-align: justify;
   height: auto;
@@ -61,12 +62,14 @@ footer {
 
 a:link {
   color: #32b7d1;
+  text-decoration: none;
 }
 
 a:visited {
-  color: #557d58;
+  color: #63B269;
 }
 
 a:hover {
-  color: #613a43;
+  color: #D14162;
+  text-decoration: underline;
 }
