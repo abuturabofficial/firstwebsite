@@ -26,6 +26,8 @@ section {
   float: right;
   width: 70%;
   font-size: 18px;
+  text-align: center;
+  text-align: justify;
   height: auto;
   padding: auto;
 }
@@ -53,7 +55,7 @@ footer {
   position: absolute;
   bottom: 10px;
   width: 100%;
-  height: auto;
+  height: auto; /* for auto adjusting height according to the screen size */
   padding: auto;
 }
 
